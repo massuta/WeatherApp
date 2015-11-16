@@ -14,6 +14,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 //Entry point
+// Add
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
 
